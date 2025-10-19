@@ -1,0 +1,31 @@
+/* Selektor dengan nama tag */
+h2 {
+  color: blue;
+}
+
+/* Selektor dengan class */
+.bg-yellow {
+  background-color: yellow;
+}
+
+/* selektor dengan ID elemen */
+#header {
+  background: grey;
+}
+
+/* Selektor dengan Atribut */
+input[type="text"] {
+  background: yellow;
+}
+
+/* mengatur font size/ukuran font nya */
+p {
+  font-size: 18px;
+}
+
+/* penulisan comment */
+/* ini komentar ya */
+/*
+ ini juga komentar
+yang lebih dari 1 baris
+ */

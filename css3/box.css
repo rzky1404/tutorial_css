@@ -1,0 +1,5 @@
+.kotak {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  border: 1px dashed grey;
+}
